@@ -33,6 +33,8 @@ public class Ejercicios {
 		System.out.println("Número de palabras: " + palabras.length);
 		System.out.println("Longitud promedio de las palabras: " + longitudPromedio);
 		System.out.println("Frecuencia de cada palabra: " + frecuenciaPalabras);
+		
+		scanner.close();
 	}
-
+	
 }
